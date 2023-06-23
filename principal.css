@@ -59,33 +59,33 @@ body {
 }
 
 .card.card1{
-  background-image: url(DataImages/maquinaVenda.jpg);
+  background-image: url(maquinaVenda.jpg);
   margin-right: 20px;
   margin-top: 20px;
   height: 490px;
 }
 .card.card2{
-  background-image: url(DataImages/arduino.jpg);
+  background-image: url(arduino.jpg);
   margin-right: 20px;
 }
 .card.card3{
-  background-image: url(DataImages/joquempo.png);
+  background-image: url(joquempo.png);
   margin-right: 20px;
 }
 .card.card4{
-  background-image: url(DataImages/jogo.jpg);
+  background-image: url(jogo.jpg);
   margin-right: 20px;
   margin-top: 20px;
   height: 500px;
 }
 .card.card5{
-  background-image: url(DataImages/music.png);
+  background-image: url(music.png);
   margin-right: 20px;
   margin-bottom: 100px;
   height: 520px;
 }
 .card.card6{
-  background-image: url(DataImages/site.png);
+  background-image: url(site.png);
   margin-right: 20px;
   margin-bottom: 100px;
 }
